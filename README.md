@@ -1,4 +1,5 @@
 # Learn Android
+Android provides you an application framework to innovate apps and games, and you will also pick up Java while learning Android development. With the help of these useful resources online, it is way easier for you to enter the world of Android Development. Here are some websites you might want to take a look!
 
 ###Courses and Tutorials
   - [Beginner Udacity Course by Google](https://www.udacity.com/course/android-development-for-beginners--ud837)
@@ -15,4 +16,7 @@
 
 ###Documentation
   - [Android Developers](https://developer.android.com/develop/index.html)
+
+
+Thanks to [CodementorIO/Android-Learning-Resources](https://github.com/CodementorIO/Android-Learning-Resources/blob/master/README.md) for many of these great resources.
 
