@@ -1,5 +1,5 @@
 # Learn Android
-Android provides you an application framework to innovate apps and games, and you will also pick up Java while learning Android development. With the help of these useful resources online, it is way easier for you to enter the world of Android Development. Here are some websites you might want to take a look!
+Android provides you an application framework to innovate apps and games, and you will also pick up Java while learning Android development. With the help of these useful resources online, it is much easier for you to enter the world of Android Development. Here are some websites you might want to take a look at!
 
 ###Courses and Tutorials
   - [Beginner Udacity Course by Google](https://www.udacity.com/course/android-development-for-beginners--ud837)
