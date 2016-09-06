@@ -5,8 +5,6 @@ Android provides you an application framework to innovate apps and games, and yo
   - [Beginner Udacity Course by Google](https://www.udacity.com/course/android-development-for-beginners--ud837) (No previous Java knowledge required)
   - [Intermediate Udacity Course by Google](https://www.udacity.com/course/developing-android-apps--ud853) (Previous Java knowledge required)
   - [Advanced Udacity Course by Google](https://www.udacity.com/course/advanced-android-app-development--ud855) (Previous Java knowledge required)
-  - [Lynda.com](http://www.lynda.com/Android-training-tutorials/947-0.html)
-  - [Pluralsight](http://www.pluralsight.com/tag/android)
 
 ###Reference Materials
   - [Tutorialspoint](http://www.tutorialspoint.com/android/index.htm)
