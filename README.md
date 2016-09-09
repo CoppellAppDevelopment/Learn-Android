@@ -16,5 +16,5 @@ Android provides you an application framework to innovate apps and games, and yo
   - [Android Developers](https://developer.android.com/develop/index.html)
 
 
-Thanks to [CodementorIO/Android-Learning-Resources](https://github.com/CodementorIO/Android-Learning-Resources/blob/master/README.md) for many of these great resources.
+*Thanks to [CodementorIO/Android-Learning-Resources](https://github.com/CodementorIO/Android-Learning-Resources/blob/master/README.md) for many of these great resources.*
 
